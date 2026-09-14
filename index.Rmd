@@ -1,0 +1,66 @@
+---
+title: "Mingcan Li"
+subtitle: "ScM student · Johns Hopkins Bloomberg School of Public Health"
+output:
+  rmarkdown::html_document:
+    theme: null
+    highlight: null
+    mathjax: null
+    self_contained: true
+    css: styles.css
+---
+
+<div class="eyebrow">BIOSTATISTICS · STATISTICAL COMPUTING · PUBLIC HEALTH</div>
+
+## Learning to turn data into understanding.
+
+I'm **Mingcan Li**, an ScM student at the **Johns Hopkins Bloomberg School of Public Health**. My current coursework brings together biostatistics, probability, statistical computing, and epidemiology.
+
+This website is part of **Project 0 for Statistical Computing (BSPH 140.776)** and a home for my developing work in R.
+
+<div class="links">
+[GitHub profile](https://github.com/Mingcan-li)
+[Course website](https://lcolladotor.github.io/jhustatcomputing/)
+</div>
+
+## Current learning
+
+### Statistical foundations
+
+Through **Methods in Biostatistics I** and **Essentials of Probability and Statistical Inference I: Probability**, I'm building a foundation in statistical methods, uncertainty, and inference.
+
+### Computing and reproducibility
+
+In **Statistical Computing**, I'm learning to use R, RStudio, tidyverse, R Markdown, Git, and GitHub to organize analyses and communicate results. My current focus is developing a reproducible workflow and becoming more comfortable with programming.
+
+### Public health context
+
+**Epidemiologic Inference in Public Health I**, **Foundational Principles of Public Health**, and **Introduction to the Biomedical Sciences I** connect my quantitative coursework with questions about population health. **Current Topics in Biostatistics Research** introduces me to research directions in the field.
+
+## Building experience
+
+I'm currently developing my statistical and programming skills through coursework. Project 0 brings several pieces of that learning together: setting up an R environment, using Git and GitHub, and creating a website from R Markdown.
+
+## Goals for Statistical Computing
+
+- Become more confident writing and understanding R code.
+- Practice data exploration and clear visualization.
+- Create reproducible reports that combine code, results, and explanation.
+- Use Git and GitHub to track changes and share projects.
+
+## Five things about me
+
+1. I'm from **Zhengzhou, Henan, China**.
+2. I enjoy **makeup and shopping for clothes**.
+3. I love **singing**.
+4. I enjoy **traveling**.
+5. My favorite outdoor activities include **skiing, surfing, and hiking**.
+
+## A useful place to start
+
+The [Statistical Computing course website](https://lcolladotor.github.io/jhustatcomputing/) brings together the course's materials, exercises, and projects. It is the starting point for the work documented here.
+
+<footer>
+Mingcan Li · Personal academic website · 2026<br>
+[Website source](https://github.com/Mingcan-li/Mingcan-li.github.io) · [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/)
+</footer>
